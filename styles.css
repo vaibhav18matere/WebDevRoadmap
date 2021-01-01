@@ -4,8 +4,14 @@ body{
 hr{
     
     border-style: none;
-    width: 5%;
+    width: 3%;
     border-top-style: dotted;
     border-color: grey;
    border-width: 5px;
+}
+h1{
+  color: blue;
+}
+h3{
+  color: brown;
 }
